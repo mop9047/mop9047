@@ -1,16 +1,8 @@
-<h1 align="center">Hi, I'm Mathew Ponon 👋</h1>
+<h2 align="center">Hi, I'm Mathew Ponon 👋</h2>
 
 <p align="center">
-Computer Systems Engineering student at NYU, focused on Electronics, Robotics & AI.
+Computer Systems Engineering Graduate from NYU, focused on Electronics, Robotics & AI.
 </p>
-
-<p align="center">
-  <a href="mailto:mop9047@nyu.edu">📧 Email</a> •
-  <a href="https://mwathew.com">🌐 Portfolio</a> •
-  <a href="https://github.com/mop9047">💻 GitHub</a>
-</p>
-
----
 
 ## 🚀 Recent Projects
 
@@ -18,47 +10,53 @@ Computer Systems Engineering student at NYU, focused on Electronics, Robotics & 
   <tr>
     <td width="33%">
       <img src="assets/Project_bridge.png" width="100%"/>
-      <h3>🤚 BRIDGE-AI: Sign Language Interpreter</h3>
-      <p>This is a project I am most passionate about! This project translates sign language into written text using Deep Learning.</p>
-      <img src="https://img.shields.io/badge/-Machine%20Learning-f9d976?style=flat-square"/>
+      <h4>BRIDGE-AI: Sign Language Interpreter</h4>
+      <p>My most important project! This project translates sign language into written text using Deep Learning.</p>
+      <img src="https://img.shields.io/badge/-ML-f4c2c2?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Community%20Driven-lightgrey?style=flat-square"/>
     </td>
     <td width="33%">
       <img src="assets/project_ebrain.png" width="100%"/>
-      <h3>🤖 Development of Controls for Robotic Arm - NYUAD Cybersecurity Lab</h3>
-      <p>Research about creating and experimenting with a robotic arm using different tools.</p>
+      <h4>Robot Arm Sim NYU Abu Dhabi eBrain Lab</h4>
+      <p>Research about creating and experimenting with a robotic arm with simulation and physical validation.</p>
       <img src="https://img.shields.io/badge/-Research%20Paper-c9e4ca?style=flat-square"/>
       <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Robotics-f6cfc0?style=flat-square"/>
     </td>
     <td width="33%">
       <img src="assets/project_ml5.png" width="100%"/>
-      <h3>🖥️ ML5.js Open Source Contributions</h3>
+      <h4>ML5.js Open Source Contributions</h4>
       <p>Summer project researching for ML5.js a Machine Learning library that makes ML accessible to everyone.</p>
       <img src="https://img.shields.io/badge/-ML-f4c2c2?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Backend-b5c7e8?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Open%20Source-f0e6c8?style=flat-square"/>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
-    <td width="33%">
-      <img src="assets/project_polymaker.png" width="100%"/>
-      <h3>🖨️ Polymaker Product Developer</h3>
-      <p>This summer I was working with Polymaker in Shanghai to create 3D printable models to showcase their new filament product line.</p>
-      <img src="https://img.shields.io/badge/-3D%20Printing-c8b4e8?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Hardware-d4c5f9?style=flat-square"/>
+    <td width="20%">
+      <img src="assets/button_drone.png" width="100%"/>
+      <h5>GPS-Denied Autonomous Drone</h5>
     </td>
-    <td width="33%">
-      <img src="assets/project_cclab.png" width="100%"/>
-      <h3>💻 Creative Coding Exhibition</h3>
-      <p>This project is a collection of all interactive websites/canvasses that I have made, showcasing both creativity and problem-solving skills.</p>
-      <img src="https://img.shields.io/badge/-Frontend-c8b4e8?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/-Digital%20Art-e8d4f0?style=flat-square"/>
+    <td width="20%">
+      <img src="assets/button_ECG.png" width="100%"/>
+      <h5>Custom ECG Circuit Designed with Altium</h5>
     </td>
-    <td width="33%">
+    <td width="20%">
+      <img src="assets/button_flight.png" width="100%"/>
+      <h5>Database Design for Airline Flight Booking</h5>
     </td>
+    <td width="20%">
+      <img src="assets/button_parkinsons.png" width="100%"/>
+      <h5>Parkinsons Classification</h5>
+    </td>
+    <td width="20%">
+      <img src="assets/button_gaming.png" width="100%"/>
+      <h5>LLM-based Simple game-capable agent</h5>
+    </td>    
   </tr>
 </table>
 
