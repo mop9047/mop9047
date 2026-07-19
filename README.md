@@ -17,16 +17,16 @@ Computer Systems Engineering Graduate from NYU, focused on Electronics, Robotics
       <img src="https://img.shields.io/badge/-Open%20Source-f0e6c8?style=flat-square"/>
     </td>
     <td width="33%">
-      <a href="#"><img src="assets/Project_bridge.png" width="100%"/></a>
-      <h4><a href="#">BRIDGE-AI: Sign Language Interpreter</a></h4>
+      <a href="https://mysterious-egret-fc8.notion.site/Documentation-19a846f56a4681f0a73dda6329af0d46"><img src="assets/Project_bridge.png" width="100%"/></a>
+      <h4><a href="https://mysterious-egret-fc8.notion.site/Documentation-19a846f56a4681f0a73dda6329af0d46">BRIDGE-AI: Sign Language Interpreter</a></h4>
       <p>My most important project! This project translates sign language into written text using Deep Learning.</p>
       <img src="https://img.shields.io/badge/-ML-f4c2c2?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Community%20Driven-lightgrey?style=flat-square"/>
     </td>
     <td width="33%">
-      <a href="#"><img src="assets/project_ebrain.png" width="100%"/></a>
-      <h4><a href="#">Robot Arm Sim NYU Abu Dhabi eBrain Lab</a></h4>
+      <a href="https://mysterious-egret-fc8.notion.site/Development-of-Controls-for-Robotic-Arm-NYUAD-Cybersecurity-Lab-198846f56a468117a86de26c9538af81"><img src="assets/project_ebrain.png" width="100%"/></a>
+      <h4><a href="https://mysterious-egret-fc8.notion.site/Development-of-Controls-for-Robotic-Arm-NYUAD-Cybersecurity-Lab-198846f56a468117a86de26c9538af81">Robot Arm Sim NYU Abu Dhabi eBrain Lab</a></h4>
       <p>Research about creating and experimenting with a robotic arm with simulation and physical validation.</p>
       <img src="https://img.shields.io/badge/-Research-c9e4ca?style=flat-square"/>
       <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
