@@ -17,7 +17,7 @@ Computer Systems Engineering student at NYU, focused on Electronics, Robotics & 
 <table>
   <tr>
     <td width="33%">
-      <img src="assets/Bridge_logo.png" width="100%"/>
+      <img src="assets/Project_bridge.png" width="100%"/>
       <h3>🤚 BRIDGE-AI: Sign Language Interpreter</h3>
       <p>This is a project I am most passionate about! This project translates sign language into written text using Deep Learning.</p>
       <img src="https://img.shields.io/badge/-Machine%20Learning-f9d976?style=flat-square"/>
@@ -25,7 +25,7 @@ Computer Systems Engineering student at NYU, focused on Electronics, Robotics & 
       <img src="https://img.shields.io/badge/-Community%20Driven-lightgrey?style=flat-square"/>
     </td>
     <td width="33%">
-      <img src="assets/project_biosim.png" width="100%"/>
+      <img src="assets/project_ebrain.png" width="100%"/>
       <h3>🤖 Development of Controls for Robotic Arm - NYUAD Cybersecurity Lab</h3>
       <p>Research about creating and experimenting with a robotic arm using different tools.</p>
       <img src="https://img.shields.io/badge/-Research%20Paper-c9e4ca?style=flat-square"/>
@@ -50,7 +50,7 @@ Computer Systems Engineering student at NYU, focused on Electronics, Robotics & 
       <img src="https://img.shields.io/badge/-Hardware-d4c5f9?style=flat-square"/>
     </td>
     <td width="33%">
-      <img src="assets/project_creativecoding.png" width="100%"/>
+      <img src="assets/project_cclab.png" width="100%"/>
       <h3>💻 Creative Coding Exhibition</h3>
       <p>This project is a collection of all interactive websites/canvasses that I have made, showcasing both creativity and problem-solving skills.</p>
       <img src="https://img.shields.io/badge/-Frontend-c8b4e8?style=flat-square"/>
@@ -58,11 +58,6 @@ Computer Systems Engineering student at NYU, focused on Electronics, Robotics & 
       <img src="https://img.shields.io/badge/-Digital%20Art-e8d4f0?style=flat-square"/>
     </td>
     <td width="33%">
-      <img src="assets/project_ai4ce.png" width="100%"/>
-      <h3>🤖 Gaussian Splatting Workflow for simulation - NYU Tandon AI4CE</h3>
-      <p>Research for implementing Gaussian splatting to robotics environment for benchmark tests.</p>
-      <img src="https://img.shields.io/badge/-Research%20Paper-c9e4ca?style=flat-square"/>
-      <img src="https://img.shields.io/badge/-Robotics-f6cfc0?style=flat-square"/>
     </td>
   </tr>
 </table>
