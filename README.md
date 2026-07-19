@@ -9,24 +9,24 @@ Computer Systems Engineering Graduate from NYU, focused on Electronics, Robotics
 <table>
   <tr>
     <td width="33%">
-      <img src="assets/project_ml5.png" width="100%"/>
-      <h4>ML5.js Sequential Data Open-Source Contribution</h4>
+      <a href="https://github.com/ml5js/ml5-next-gen"><img src="assets/project_ml5.png" width="100%"/></a>
+      <h4><a href="https://github.com/ml5js/ml5-next-gen">ML5.js Sequential Data Open-Source Contribution</a></h4>
       <p>Summer project researching for ML5.js a Machine Learning library that makes ML accessible to everyone.</p>
       <img src="https://img.shields.io/badge/-ML-f4c2c2?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Backend-b5c7e8?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Open%20Source-f0e6c8?style=flat-square"/>
     </td>
     <td width="33%">
-      <img src="assets/Project_bridge.png" width="100%"/>
-      <h4>BRIDGE-AI: Sign Language Interpreter</h4>
+      <a href="#"><img src="assets/Project_bridge.png" width="100%"/></a>
+      <h4><a href="#">BRIDGE-AI: Sign Language Interpreter</a></h4>
       <p>My most important project! This project translates sign language into written text using Deep Learning.</p>
       <img src="https://img.shields.io/badge/-ML-f4c2c2?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Community%20Driven-lightgrey?style=flat-square"/>
     </td>
     <td width="33%">
-      <img src="assets/project_ebrain.png" width="100%"/>
-      <h4>Robot Arm Sim NYU Abu Dhabi eBrain Lab</h4>
+      <a href="#"><img src="assets/project_ebrain.png" width="100%"/></a>
+      <h4><a href="#">Robot Arm Sim NYU Abu Dhabi eBrain Lab</a></h4>
       <p>Research about creating and experimenting with a robotic arm with simulation and physical validation.</p>
       <img src="https://img.shields.io/badge/-Research-c9e4ca?style=flat-square"/>
       <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
@@ -38,24 +38,24 @@ Computer Systems Engineering Graduate from NYU, focused on Electronics, Robotics
 <table>
   <tr>
     <td width="20%">
-      <img src="assets/button_drone.png" width="100%"/>
-      <h5>GPS-Denied Autonomous Drone</h5>
+      <a href="https://github.com/mop9047/iphone-based-gps-denied-autonomous-drone"><img src="assets/button_drone.png" width="100%"/></a>
+      <h5><a href="https://github.com/mop9047/iphone-based-gps-denied-autonomous-drone">GPS-Denied Autonomous Drone</a></h5>
     </td>
     <td width="20%">
-      <img src="assets/button_parkinsons.png" width="100%"/>
-      <h5>Parkinsons Classification</h5>
+      <a href="https://github.com/mop9047/parkinsons_classification"><img src="assets/button_parkinsons.png" width="100%"/></a>
+      <h5><a href="https://github.com/mop9047/parkinsons_classification">Parkinsons Classification</a></h5>
     </td>
     <td width="20%">
-      <img src="assets/button_flight.png" width="100%"/>
-      <h5>Database Design for Airline Flight Booking</h5>
+      <a href="https://github.com/mop9047/flight_search"><img src="assets/button_flight.png" width="100%"/></a>
+      <h5><a href="https://github.com/mop9047/flight_search">Database Design for Airline Flight Booking</a></h5>
     </td>
     <td width="20%">
-      <img src="assets/button_gaming.png" width="100%"/>
-      <h5>LLM-based Simple game-capable agent</h5>
+      <a href="https://github.com/mop9047/gaming-agent"><img src="assets/button_gaming.png" width="100%"/></a>
+      <h5><a href="https://github.com/mop9047/gaming-agent">LLM-based Simple game-capable agent</a></h5>
     </td> 
     <td width="20%">
-      <img src="assets/button_ECG.png" width="100%"/>
-      <h5>Custom ECG Circuit Designed with Altium</h5>
+      <a href="https://drive.google.com/file/d/1RgGXA9w-B78r0G2YHhyWLatwcm0vWynt/view"><img src="assets/button_ECG.png" width="100%"/></a>
+      <h5><a href="https://drive.google.com/file/d/1RgGXA9w-B78r0G2YHhyWLatwcm0vWynt/view">Custom ECG Circuit Designed with Altium</a></h5>
     </td>   
   </tr>
 </table>
