@@ -20,13 +20,13 @@ Computer Systems Engineering Graduate from NYU, focused on Electronics, Robotics
       <img src="assets/project_ebrain.png" width="100%"/>
       <h4>Robot Arm Sim NYU Abu Dhabi eBrain Lab</h4>
       <p>Research about creating and experimenting with a robotic arm with simulation and physical validation.</p>
-      <img src="https://img.shields.io/badge/-Research%20Paper-c9e4ca?style=flat-square"/>
+      <img src="https://img.shields.io/badge/-Research-c9e4ca?style=flat-square"/>
       <img src="https://img.shields.io/badge/-ROS-22314E?style=flat-square&logo=ros&logoColor=white"/>
       <img src="https://img.shields.io/badge/-Robotics-f6cfc0?style=flat-square"/>
     </td>
     <td width="33%">
       <img src="assets/project_ml5.png" width="100%"/>
-      <h4>ML5.js Open Source Contributions</h4>
+      <h4>ML5.js Sequential Data Contribution</h4>
       <p>Summer project researching for ML5.js a Machine Learning library that makes ML accessible to everyone.</p>
       <img src="https://img.shields.io/badge/-ML-f4c2c2?style=flat-square"/>
       <img src="https://img.shields.io/badge/-Backend-b5c7e8?style=flat-square"/>
